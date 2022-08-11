@@ -79,7 +79,7 @@ Note that you can also use `python -m pygbag folder_name`, if `pygbag` isn't rec
 
 After running this command go to your preferred web browser, and go to https://localhost:8000#debug and it should show something like
 ![image](https://user-images.githubusercontent.com/78538391/169882643-a93622e2-99fe-4f71-90ed-017ab2da51c6.png)
-> Don't worry if you didn't get the same result, just try redoing the previous steps, and if even that doesn't work, you can feel free to join the [pygame discord server](https://discord.gg/653AkjMd) and ask your queries there!
+> Don't worry if you didn't get the same result, just try redoing the previous steps, and if even that doesn't work, you can feel free to join the [pygame discord server](https://discord.gg/pygame) and ask your queries there!
 
 If you were able to complete this step, congratulations you were successfully able to setup pygbag and also able to test it out.
 ***
@@ -151,7 +151,7 @@ So to upload the file
 5. Then save your project
 
 After following these step, if you view your game page, then you would be able to see you game.
-Thought, if your are unable to do so, you can ask for help in the [pygame discord server](https://discord.gg/653AkjMd)
+Thought, if your are unable to do so, you can ask for help in the [pygame discord server](https://discord.gg/pygame)
 
 # *The End*
 Congratulations! You were able to finish this tutorial on pygbag, now you can go ahead and try to make all your games available in the web too!!<br>
